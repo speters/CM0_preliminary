@@ -2,7 +2,7 @@
 
 This repository contains Raspberry Pi CM0 compute module preliminary datasheets and KiCAD design files.
 
-They are considered "preliminary" until the advent of proper official docu from Raspberry Pi.
+They are considered "preliminary" until the advent of proper [official docu from Raspberry Pi](https://datasheets.raspberrypi.com/).
 
 ### Sources
 
