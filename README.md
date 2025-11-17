@@ -4,6 +4,8 @@ This repository contains Raspberry Pi CM0 compute module preliminary datasheets 
 
 They are considered "preliminary" until the advent of proper [official docu from Raspberry Pi](https://datasheets.raspberrypi.com/).
 
+![CM0_symbol](CM0_symbol.png)
+
 ### Sources
 
   * [EDAtec Devkit info](https://edatec.cn/docs/zh/cm0)
