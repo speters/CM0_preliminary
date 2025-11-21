@@ -6,7 +6,7 @@
   * [CM0 IO board schematics](http://edatec.cn/storage/file/CM0%20IO%20Rev1%20SCH.pdf)
   * [KiCAD design files](http://edatec.cn/storage/zip/20250920/d4be7476d8ce5a5a77f645ab08e852c5.zip)
 
-As this makes this repository superfluous, it is archived now.
+As this makes this repository superfluous, it is updated with the currently available official docs, and archived now.
 
 Thx for helping to collect info!
 
